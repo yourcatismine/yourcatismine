@@ -1,4 +1,4 @@
-name: Pacman
+name: Generate pacman
 
 on:
   schedule: # execute every 12 hours
